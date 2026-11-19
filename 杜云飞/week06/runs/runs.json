@@ -166,5 +166,35 @@
     "finished_at": "2026-11-19 22:00:52",
     "method": "bert",
     "backbone": "bert-base"
+  },
+  {
+    "run_id": "t2__bert__cweight-30k-2ep",
+    "finished_at": "2026-11-19 22:12:54",
+    "method": "bert",
+    "backbone": "bert-base"
+  },
+  {
+    "run_id": "t2__bert__bs16-30k-2ep",
+    "finished_at": "2026-11-19 22:25:47",
+    "method": "bert",
+    "backbone": "bert-base"
+  },
+  {
+    "run_id": "t2__bert__seed123-30k-2ep",
+    "finished_at": "2026-11-19 22:37:49",
+    "method": "bert",
+    "backbone": "bert-base"
+  },
+  {
+    "run_id": "t3__llm-api__ds-v4flash-3shot",
+    "finished_at": "2026-11-19 22:41:48",
+    "method": "llm-api",
+    "cost_cny": 0.431
+  },
+  {
+    "run_id": "t2__bert__seed2024-30k-2ep",
+    "finished_at": "2026-11-19 22:49:50",
+    "method": "bert",
+    "backbone": "bert-base"
   }
 ]
